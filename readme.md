@@ -4,10 +4,9 @@ Hello Hello.
 This is a representation of a Slot Machine made with JavaScript.
 3 Lines
 
-## NPM
+## NPM Install
 
 This app uses 1 NPM package: **prompt-sync**
-To install: **npm install**
 
 ## Run in Terminal
 
